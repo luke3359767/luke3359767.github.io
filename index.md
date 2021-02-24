@@ -1,6 +1,10 @@
 # About Me
 
-Luke Liu, born in 2004. Now live in Canada. I am a Grade 11 student who wants to get in University of Waterloo.
+Luke Liu, born in 2004. Now live in London, Canada. I am a Grade 11 student who wants to get in University of Waterloo.
+
+Current school: Oakridge Secondery School
+
+Skills: Proficient in Python, Familiar with C++, Learning Java 
 
 ## Here's some of my works
 Finished:
@@ -15,7 +19,7 @@ Doing:
 2021:
   - Get good result on Euclid
   - Pass IELTS 6.5
-  - Learn C++ for CCC
+  - Learn Algorithms in C++ for CCC
   - Volunteer Hours
   - Get leadership experience
   - Do more Academic Papers about CS
