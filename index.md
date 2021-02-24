@@ -6,6 +6,8 @@ Current school: Oakridge Secondery School
 
 Skills: Proficient in Python, Familiar with C++, Learning Java 
 
+Email: liuluke834@gotvdsb.ca
+
 ## Here's some of my works
 Finished:
   - CCC 29 points on senior in 2021(Python is too slow X_X)
