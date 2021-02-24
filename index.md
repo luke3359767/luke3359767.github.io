@@ -1,5 +1,6 @@
 ## About Me
-[About Me](https://github.com/luke3359767/luke3359767.github.io/AboutMe.md)
+
+Yo
 
 ## Welcome to Luke's Page
 
