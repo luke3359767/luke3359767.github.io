@@ -1,6 +1,30 @@
-## About Me
+# About Me
 
-Yo
+Luke Liu, born in 2004. Now live in Canada. I am a Grade 11 student who wants to get in University of Waterloo.
+
+## Here's some of my works
+Finished:
+  - CCC 29 points on senior in 2021(Python is too slow X_X)
+  - My academic paper: PT sort: A non-comparison sort using the sum of the power of two (has not published)
+
+Doing:
+  - Euclid math competition preparation
+  - Next year's CCC
+ 
+## Goals & Plans
+2021:
+  - Get good result on Euclid
+  - Pass IELTS 6.5
+  - Learn C++ for CCC
+  - Volunteer Hours
+  - Get leadership experience
+  - Do more Academic Papers about CS
+2022:
+  - More Academic Papers!
+  - Biggest goal: IOI !!!!
+  - Get in UWaterloo <---Most important
+  
+ 
 
 ## Welcome to Luke's Page
 
