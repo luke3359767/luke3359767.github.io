@@ -19,6 +19,8 @@ Doing:
   - Volunteer Hours
   - Get leadership experience
   - Do more Academic Papers about CS
+
+
 2022:
   - More Academic Papers!
   - Biggest goal: IOI !!!!
